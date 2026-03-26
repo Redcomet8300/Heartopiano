@@ -1,0 +1,2 @@
+1.Install library requirements.txt
+2.Set command "python player.py settings.json"
